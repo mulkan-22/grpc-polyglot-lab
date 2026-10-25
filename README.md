@@ -253,4 +253,5 @@ Hasil yang benar:
 - Tidak ada error `Connection refused` atau `Cannot find module`.
 - Terminal Python dan Node.js menampilkan `Nama  : MULKAN AZHIMA` dan `Email : HIMA@GMAIL.COM`.
 - Terminal server Go menampilkan `Menerima request untuk User ID: 1` setiap kali client dijalankan.
+- terima kasih.
 
